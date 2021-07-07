@@ -10,10 +10,15 @@
   - [Contact Information For Questions](#questions)
   # Description
   Full Stack Tech Blog App
-  
-  Come visit our blog today, signup and join in the chatting fun!
+   
+   Come visit our blog today, signup and join in the chatting fun!
 
-  I just ran out of time but i will be revisiting this in the future to make more improvements!
+I just ran out of time but i will be revisiting this in the future to make more improvements!
+
+Link to Deployed App : https://vtechblog.herokuapp.com/
+![image](https://user-images.githubusercontent.com/79023746/124711813-60d4c080-deb3-11eb-8815-d617a7ba2942.png)
+
+  
 
   # Installation
   Clone Git Repository
@@ -27,8 +32,12 @@
 
 
   # Usage
+  - LOCAL TESTING BELOW
   - To Start Open Terminal and type `node server.js`
   - visit in your browser `localhost:3001`
+  - NOTHING  NEEDS TO BE DONE IF YOU VISIT LINK BELOW FIRST
+  - Visit Deployed App At: https://vtechblog.herokuapp.com/
+
   
     
   # Contribution

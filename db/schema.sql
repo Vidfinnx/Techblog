@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS vblog_db;
+
+CREATE DATABASE vblog_db;

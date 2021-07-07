@@ -1,0 +1,13 @@
+<div class="card mb-5">
+    <div class="card-header bg-secondary bg-dark">
+        <h4 style="text-decoration: underline;text-decoration-style:double;text-decoration-color:red; color:magenta; font-weight:bold;font-size:30px"
+            class="card-title"><a class="text-info" href="/post/{{id}}"></a>{{title}}</a></h4>
+        <h6 class="card-subtitle mb-2 text-light">Posted by {{user.username}} on {{created_at}}</h6>
+        <a class="text-info" href="/post/{{id}}" style="float:right; font-weight:bold; font-size:16px;">View
+            {{comments.length}} {{format_plural "comment"
+            comments.length}}</a>
+    </div>
+    <div class="card-body">
+        <p class="card-text">{{content}}</p>
+    </div>
+</div>
